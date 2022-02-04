@@ -6,5 +6,6 @@ public class Main {
         System.out.println(mage1.getInfo());
         System.out.println(mage2.getInfo());
         System.out.println(mage1.fight(mage2));
+        System.out.println("");
     }
 }
